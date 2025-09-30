@@ -1,21 +1,16 @@
 # PA00
 
-Edit this README file to include a brief biography of yourself. Your README should include the following elements:
-* Headers (one or more)
-* Emphasis (italics or/and bold)
-* Lists
-* Images: add a picture (of yourself or something else) to your repo and embed it in your README
-* Links
-* A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
+## About Me
+Hello, my name is **Ellen** and I am a MAPSS political science student. I completed my undergraduate degrees in political science and economics at UCLA and hope to pursue a PhD in political science. My research focuses on the relationship between social media and political attitudes. Here are a few of the things I enjoy doing in my free time:
+* travelling
+* visiting art museums
+* playing music 
+* spending time with friends and family
+
+## Picture
+!([paris-picture](https://github.com/macs30111/pa0-eohler2003/blob/main/paris_picture.JPG))
+_Me in Paris this summer at the Musee de l'Orangerie._
 
 
-
-## 📚  Resources 
-* [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
-* [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
-* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-* [How to use GitHub branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
-* [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
-* [GitHub's Learning Lab](https://lab.github.com/)
-* [Education community forum](https://education.github.community/)
-* [GitHub community forum](https://github.community/)
+## Summary and Reflection of the Git/GitHub workflow
+To edit this README file, I clicked on the pencil icon in the top right-hand corner. I then added headers, copying the syntax of the existing headers in the file. I then wrote the blurbs about myself and about my workflow, and bolded and italicized certain words and phrases using keyboard shortcuts. This taught me that bolded words can be made by placing two asterisks before and after the word and than italicized words can be made by adding underscores. Through watching the [intro video on Github](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be), I learned that Github allows users to keep track of their own code, and selectively implement the code of others, in a systematic and organized way. This is a valuable tool and I'm excited to explore further. 
