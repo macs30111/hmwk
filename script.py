@@ -8,7 +8,7 @@ Hello, my name is **Ellen** and I am a MAPSS political science student. I comple
 * spending time with friends and family
 
 ## Picture
-![paris-picture](https://github.com/user-attachments/assets/48ebc726-80a4-4ece-b0d5-d60aa3b982c5)
+!([paris-picture](https://github.com/macs30111/pa0-eohler2003/blob/main/paris_picture.JPG))
 _Me in Paris this summer at the Musee de l'Orangerie._
 
 
